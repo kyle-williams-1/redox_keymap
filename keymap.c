@@ -22,7 +22,7 @@ enum custom_keycodes {
 #define KC_BKSL KC_BSLASH
 #define SYM_L   MO(_SYMB)
 #define ADJ_L   MO(_ADJUST)
-#define NAV_L   MO(_ADJUST)
+#define NAV_L   MO(_NAV)
 
 
 #define KC_ALAS LALT_T(KC_PAST)
